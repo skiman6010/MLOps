@@ -1,0 +1,4 @@
+outs:
+- md5: 9fed1cb6e819dff02460463246926777
+  size: 52678597
+  path: best-checkpoint.ckpt
