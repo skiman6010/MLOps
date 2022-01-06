@@ -131,7 +131,7 @@ dmypy.json
 */logs/*
 */models/*
 */wandb/*
-*/outputs/*
+/outputs/*
 */multirun/*
 
 .DS_Store
