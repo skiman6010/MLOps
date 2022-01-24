@@ -11,4 +11,4 @@ omegaconf
 hydra_colorlog
 onnxruntime
 fastapi
-univcorn
+uvicorn
